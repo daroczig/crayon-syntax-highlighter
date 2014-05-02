@@ -1,0 +1,1102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crayon-syntax-highlighter\n"
+"POT-Creation-Date: 2014-05-03 01:06+0100\n"
+"PO-Revision-Date: 2014-05-03 01:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: Gergely Daróczi <daroczig@rapporter.net>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: crayon__;crayon_n;crayon_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../crayon-syntax-highlighter/crayon_formatter.class.php:286
+msgid "Toggle Line Numbers"
+msgstr "Sorszám mutatásának ki/bekapcsolása"
+
+#: ../crayon-syntax-highlighter/crayon_formatter.class.php:290
+msgid "Toggle Plain Code"
+msgstr "Szöveg formázásának ki/bekapcsolása"
+
+#: ../crayon-syntax-highlighter/crayon_formatter.class.php:294
+msgid "Toggle Line Wrap"
+msgstr "Sortörés ki/bekapcsolása"
+
+#: ../crayon-syntax-highlighter/crayon_formatter.class.php:298
+msgid "Expand Code"
+msgstr "Forráskód kinyitása"
+
+#: ../crayon-syntax-highlighter/crayon_formatter.class.php:302
+msgid "Copy"
+msgstr "Másol"
+
+#: ../crayon-syntax-highlighter/crayon_formatter.class.php:306
+msgid "Open Code In New Window"
+msgstr "A forráskód megnyitása új ablakban\t"
+
+#: ../crayon-syntax-highlighter/crayon_formatter.class.php:323
+msgid "Contains Mixed Languages"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:151
+msgid "Hourly"
+msgstr "Óránként"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:151
+msgid "Daily"
+msgstr "Naponta"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:152
+msgid "Weekly"
+msgstr "Hetente"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:152
+msgid "Monthly"
+msgstr "Havonta"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:153
+msgid "Immediately"
+msgstr "Most azonnal"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:164
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:168
+msgid "Max"
+msgstr "Max"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:164
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:168
+msgid "Min"
+msgstr "Min"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:164
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:168
+msgid "Static"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:166
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:170
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:774
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:783
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1062
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1064
+msgid "Pixels"
+msgstr "pixel"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:166
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:170
+msgid "Percent"
+msgstr "százalék"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:179
+msgid "None"
+msgstr "nincs"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:179
+msgid "Left"
+msgstr "balra"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:179
+msgid "Center"
+msgstr "középre"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:179
+msgid "Right"
+msgstr "jobbra"
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:181
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:206
+msgid "On MouseOver"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:181
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:187
+msgid "Always"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:181
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:187
+msgid "Never"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:187
+msgid "When Found"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:206
+msgid "On Double Click"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:206
+msgid "On Single Click"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:206
+msgid "Disable Mouse Events"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:213
+msgid "An error has occurred. Please try again later."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:229
+msgid "Inline Tag"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings.class.php:229
+msgid "Block Tag"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:53
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:210
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1264
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:252
+msgid "Settings"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:136
+#, php-format
+msgid "Press %s to Copy, %s to Paste"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:137
+msgid "Click To Expand Code"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:179
+msgid "Prompt"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:180
+msgid "Value"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:181
+msgid "Alert"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:182
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:922
+msgid "No"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:183
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:922
+msgid "Yes"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:184
+msgid "Confirm"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:185
+msgid "Change Code"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:193
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:225
+msgid "Save Changes"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:233
+msgid "Reset Settings"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:491
+msgid "General"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:492
+msgid "Theme"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:493
+msgid "Font"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:494
+msgid "Metrics"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:495
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:299
+msgid "Toolbar"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:496
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:297
+msgid "Lines"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:497
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:212
+msgid "Code"
+msgstr "Forráskód"
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:498
+msgid "Tags"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:499
+msgid "Languages"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:500
+msgid "Files"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:501
+msgid "Posts"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:502
+msgid "Tag Editor"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:503
+msgid "Misc"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:506
+msgid "Debug"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:507
+msgid "Errors"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:508
+msgid "Log"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:511
+msgid "About"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:751
+msgid "Height"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:757
+msgid "Width"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:763
+msgid "Top Margin"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:764
+msgid "Bottom Margin"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:765
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:770
+msgid "Left Margin"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:766
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:770
+msgid "Right Margin"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:776
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:779
+msgid "Allow floating elements to surround Crayon"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:781
+msgid "Inline Margin"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:789
+msgid "Display the Toolbar"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:792
+msgid "Overlay the toolbar on code rather than push it down when possible"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:793
+msgid "Toggle the toolbar on single click when it is overlayed"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:794
+msgid "Delay hiding the toolbar on MouseOut"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:796
+msgid "Display the title when provided"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:797
+msgid "Display the language"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:804
+msgid "Display striped code lines"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:805
+msgid "Enable line marking for important lines"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:806
+msgid "Enable line ranges for showing only parts of code"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:807
+msgid "Display line numbers by default"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:808
+msgid "Enable line number toggling"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:809
+msgid "Wrap lines by default"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:810
+msgid "Enable line wrap toggling"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:811
+msgid "Start line numbers from"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:822
+msgid "When no language is provided, use the fallback"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:828
+#, php-format
+msgid "%d language has been detected."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:829
+msgid "Parsing was successful"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:829
+msgid "Parsing was unsuccessful"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:835
+#, php-format
+msgid "The selected language with id %s could not be loaded"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:838
+msgid "Show Languages"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:875
+msgid "Show Crayon Posts"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:876
+msgid "Refresh"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:902
+msgid "ID"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:902
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:189
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:314
+msgid "Title"
+msgstr "Cím\t"
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:902
+msgid "Posted"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:902
+msgid "Modifed"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:902
+msgid "Contains Legacy Tags?"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1017
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1017
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:199
+msgid "Duplicate"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1017
+msgid "Submit"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1018
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:196
+msgid "Delete"
+msgstr "Törlés"
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1020
+msgid "Loading..."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1022
+msgid "Duplicate a Stock Theme into a User Theme to allow editing."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1033
+#, php-format
+msgid ""
+"Change the %1$sfallback language%2$s to change the sample code or %3$schange "
+"it manually%4$s. Lines 5-7 are marked."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1040
+msgid "Enable Live Preview"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1042
+msgid "Enqueue themes in the header (more efficient)."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1045
+#, php-format
+msgid "The selected theme with id %s could not be loaded"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1060
+msgid "Custom Font Size"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1062
+msgid "Line Height"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1067
+#, php-format
+msgid "The selected font with id %s could not be loaded"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1073
+msgid "Enqueue fonts in the header (more efficient)."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1078
+msgid "Enable plain code view and display"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1081
+msgid "Enable plain code toggling"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1082
+msgid "Show the plain code by default"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1083
+msgid "Enable code copy/paste"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1085
+msgid "Enable opening code in a window"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1086
+msgid "Always display scrollbars"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1087
+msgid "Minimize code"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1088
+msgid "Expand code beyond page borders on mouseover"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1089
+msgid "Enable code expanding toggling when possible"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1092
+msgid "Decode HTML entities in code"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1094
+msgid "Decode HTML entities in attributes"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1096
+msgid "Remove whitespace surrounding the shortcode content"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1098
+msgid "Remove &lt;code&gt; tags surrounding the shortcode content"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1099
+msgid "Allow Mixed Language Highlighting with delimiters and tags."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1101
+msgid "Show Mixed Language Icon (+)"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1103
+msgid "Tab size in spaces"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1105
+msgid "Blank lines before code:"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1107
+msgid "Blank lines after code:"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1112
+msgid "Capture Inline Tags"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1113
+msgid "Wrap Inline Tags"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1114
+msgid "Capture &lt;code&gt; as"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1118
+msgid "Capture `backquotes` as &lt;code&gt;"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1119
+msgid "Capture &lt;pre&gt; tags as Crayons"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1121
+#, php-format
+msgid ""
+"Using this markup for Mini Tags and Inline tags is now %sdepreciated%s! Use "
+"the %sTag Editor%s instead and convert legacy tags."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1122
+msgid "Capture Mini Tags like [php][/php] as Crayons."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1123
+msgid "Capture Inline Tags like {php}{/php} inside sentences."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1124
+msgid "Enable [plain][/plain] tag."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1129
+msgid ""
+"When loading local files and a relative path is given for the URL, use the "
+"absolute path"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1132
+msgid "Followed by your relative URL."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1139
+msgid "Convert Legacy Tags"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1142
+msgid "No Legacy Tags Found"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1146
+msgid "Encode"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1148
+#, php-format
+msgid ""
+"Use %s to separate setting names from values in the &lt;pre&gt; class "
+"attribute"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1151
+msgid ""
+"Display the Tag Editor in any TinyMCE instances on the frontend (e.g. "
+"bbPress)"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1152
+msgid "Display Tag Editor settings on the frontend"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1156
+msgid "Clear the cache used to store remote code requests"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1158
+msgid "Clear Now"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1159
+msgid "Attempt to load Crayon's CSS and JavaScript only when needed"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1160
+msgid "Disable enqueuing for page templates that may contain The Loop."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1161
+msgid "Allow Crayons inside comments"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1162
+msgid "Remove Crayons from excerpts"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1163
+msgid "Load Crayons only from the main Wordpress query"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1164
+msgid "Disable mouse gestures for touchscreen devices (eg. MouseOver)"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1165
+msgid "Disable animations"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1166
+msgid "Disable runtime stats"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1172
+msgid "Log errors for individual Crayons"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1173
+msgid "Log system-wide errors"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1174
+msgid "Display custom message for errors"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1186
+msgid "Show Log"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1186
+msgid "Hide Log"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1188
+msgid "Clear Log"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1189
+msgid "Email Admin"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1191
+msgid "Email Developer"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1193
+msgid "The log is currently empty."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1195
+msgid "The log file exists and is writable."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1195
+msgid "The log file exists and is not writable."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1197
+msgid "The log file does not exist and is not writable."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1207
+msgid "Version"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1209
+msgid "Developer"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1210
+msgid "Translators"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1258
+msgid "?"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1265
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:336
+msgid "Theme Editor"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/crayon_settings_wp.class.php:1266
+msgid "Donate"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:62
+msgid "Add Crayon Code"
+msgstr "Forráskód hozzáadása"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:63
+msgid "Edit Crayon Code"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:64
+msgid "Add"
+msgstr "Hozzáadás"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:65
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:352
+msgid "Save"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:180
+msgid "OK"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:182
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:191
+msgid "A short description"
+msgstr "Rövid leírás"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:193
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:318
+msgid "Inline"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:195
+msgid "Don't Highlight"
+msgstr "Színezés tiltása"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:200
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:322
+msgid "Language"
+msgstr "Nyelv"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:203
+msgid "Line Range"
+msgstr "Érintett sorok"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:204
+msgid "(e.g. 3-5 or 3)"
+msgstr "(pl. 3-5 vagy 3)"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:205
+msgid "Marked Lines"
+msgstr "Kijelölt sorok"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:206
+msgid "(e.g. 1,2,3-5)"
+msgstr "(pl. 1,2,3-5)"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:215
+msgid "Clear"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:219
+msgid "Paste your code here, or type it in manually."
+msgstr "Írja vagy illessze be a forráskódot."
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:223
+msgid "URL"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:225
+msgid "Relative local path or absolute URL"
+msgstr "A forráskód relatív vagy abszolút elérési útja"
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:228
+msgid ""
+"If the URL fails to load, the code above will be shown instead. If no code "
+"exists, an error is shown."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:230
+#, php-format
+msgid ""
+"If a relative local path is given it will be appended to %s - which is "
+"defined in %sCrayon &gt; Settings &gt; Files%s."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:257
+msgid "Change the following settings to override their global values."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:259
+msgid "Only changes (shown yellow) are applied."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/tag-editor/crayon_tag_editor_wp.class.php:261
+#, php-format
+msgid ""
+"Future changes to the global settings under %sCrayon &gt; Settings%s won't "
+"affect overridden settings."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:192
+msgid "User-Defined Theme"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:193
+msgid "Stock Theme"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:194
+msgid "Success!"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:195
+msgid "Failed!"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:197
+#, php-format
+msgid "Are you sure you want to delete the \"%s\" theme?"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:198
+msgid "Delete failed!"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:200
+msgid "New Name"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:201
+msgid "Duplicate failed!"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:202
+msgid "Please check the log for details."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:203
+msgid "Are you sure you want to discard all changes?"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:204
+#, php-format
+msgid "Editing Theme: %s"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:205
+#, php-format
+msgid "Creating Theme: %s"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:206
+msgid "Submit Your Theme"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:207
+msgid ""
+"Submit your User Theme for inclusion as a Stock Theme in Crayon! This will "
+"email me your theme - make sure it's considerably different from the stock "
+"themes :)"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:208
+msgid "Message"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:209
+msgid "Please include this theme in Crayon!"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:210
+msgid "Submit was successful."
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:211
+msgid "Submit failed!"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:294
+msgid "Information"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:295
+msgid "Highlighting"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:296
+msgid "Frame"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:298
+msgid "Line Numbers"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:301
+msgid "Background"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:302
+msgid "Text"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:303
+msgid "Border"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:304
+msgid "Top Border"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:305
+msgid "Bottom Border"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:306
+msgid "Right Border"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:308
+msgid "Hover"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:309
+msgid "Active"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:310
+msgid "Pressed"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:311
+msgid "Pressed & Hover"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:312
+msgid "Pressed & Active"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:315
+msgid "Buttons"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:317
+msgid "Normal"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:319
+msgid "Striped"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:320
+msgid "Marked"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:321
+msgid "Striped & Marked"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:351
+msgid "Back To Settings"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:390
+msgid "Comment"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:391
+msgid "String"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:392
+msgid "Preprocessor"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:393
+msgid "Tag"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:394
+msgid "Keyword"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:395
+msgid "Statement"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:396
+msgid "Reserved"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:397
+msgid "Type"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:398
+msgid "Modifier"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:399
+msgid "Identifier"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:400
+msgid "Entity"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:401
+msgid "Variable"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:402
+msgid "Constant"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:403
+msgid "Operator"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:404
+msgid "Symbol"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:405
+msgid "Notation"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:406
+msgid "Faded"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:407
+msgid "HTML"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:408
+msgid "Unhighlighted"
+msgstr ""
+
+#: ../crayon-syntax-highlighter/util/theme-editor/theme_editor.php:542
+msgid "(Used for Copy/Paste)"
+msgstr ""
